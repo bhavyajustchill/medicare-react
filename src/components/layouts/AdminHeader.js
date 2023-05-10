@@ -82,9 +82,9 @@ export default function AdminHeader(props) {
                     <i className="fa fa-power-off"></i> Profile
                   </Link>
                   <div className="dropdown-divider"></div>
-                  <button className="dropdown-item" type="button" onClick={handleLogout}>
+                  <Link className="dropdown-item" type="button" onClick={handleLogout}>
                     <i className="fa fa-power-off"></i> Logout
-                  </button>
+                  </Link>
                 </ul>
               </li>
             </ul>
