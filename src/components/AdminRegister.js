@@ -51,7 +51,7 @@ export default function AdminRegister() {
   return (
     <>
       <div className="d-flex h-100">
-        <div className="card container w-25 mt-2 p-0 align-self-center border-success">
+        <div className="card container col-10 col-sm-10 col-md-9 col-lg-8 mt-2 p-0 align-self-center border-success">
           <div className="card-header border-dark">
             <div className="mt-2 text-center">
               <h3>MediCare</h3>

@@ -39,7 +39,7 @@ export default function AdminLogin() {
   return (
     <>
       <div className="d-flex h-100">
-        <div className="card container w-25 mt-5 p-0 align-self-center border-primary">
+        <div className="card container col-10 col-sm-10 col-md-9 col-lg-8 mt-5 p-0 align-self-center border-primary">
           <div className="card-header border-darks">
             <div className="mt-2 text-center">
               <h3>MediCare</h3>
